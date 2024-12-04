@@ -63,4 +63,4 @@ jobs:
           app-name: 'LV3MB2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48D10CD8286B4A6B90FF430E335FC0E5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_918281CEA6914FEC88DB65BAF0B4719C }}
